@@ -2,8 +2,6 @@
 <h2>BSc. (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka<h2>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-
-
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Java,react and DevOps**
@@ -12,8 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/uvini isanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uvini isanka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/uvini-isanka-965b632a6/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3b461ywxzeqbqzpsqgyyhltw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uvini-isanka-965b632a6/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3b461ywxzeqbqzpsqgyyhltw%3d%3d" height="30" width="40" /></a>
 <a href="https://fb.com/ishanka jayawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishanka jayawardhana" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uviniisanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uviniisanka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
