@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uvini Isanka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">BSc. (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
+
+<h4>A passionate Software Engineer from Sri Lanka</h4>
 
 - 🌱 I’m currently learning **Laravel**
 
