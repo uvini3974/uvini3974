@@ -2,6 +2,8 @@
 <h2>BSc. (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka<h2>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
+---
+
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Java,react and DevOps**
