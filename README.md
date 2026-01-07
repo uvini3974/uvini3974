@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uvini Isanka</h1>
-<h2>BSc. (Hons) Computer Engineering(UG) - Faculty of Engineering, University of Ruhuna, Sri Lanka<h2>
+<h2>BSc. (Hons) Computer Engineer - Faculty of Engineering, University of Ruhuna, Sri Lanka<h2>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 ---
