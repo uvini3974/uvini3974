@@ -5,7 +5,7 @@ BSc. (Hons) Computer Engineering Undergraduate <br>
 Faculty of Engineering, University of Ruhuna, Sri Lanka
 </h3>
 
-<h4 align="center">A passionate Software Engineer from Sri Lanka 🇱🇰</h4>
+<h4 align="center">A passionate Software Engineer from Sri Lanka</h4>
 
 ---
 
