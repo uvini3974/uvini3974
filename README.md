@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Uvini Isanka</h1>
 
 <h2 align="center">
