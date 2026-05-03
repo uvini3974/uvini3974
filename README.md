@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uvini Isanka</h1>
 
 <h3 align="center">
-BSc. (Hons) Computer Engineering Undergraduate <br>
+BSc. (Hons) Computer Engineer <br>
 Faculty of Engineering, University of Ruhuna, Sri Lanka
 </h3>
 
