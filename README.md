@@ -16,6 +16,7 @@ Faculty of Engineering, University of Ruhuna, Sri Lanka
 
 ## 💬 Ask Me About
 - Java
+- Python
 - React
 - DevOps
 - MERN Stack
