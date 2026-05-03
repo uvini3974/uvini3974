@@ -10,6 +10,7 @@ Faculty of Engineering, University of Ruhuna, Sri Lanka
 ---
 
 ## 🌱 Currently Learning
+- React
 - Laravel
 - Cloud & DevOps Technologies
 
